@@ -11,7 +11,7 @@ target 'SJLiveObjectTest' do
   pod 'SJVTMagic', '~> 0.0.2'
 #  pod 'FFmpeg', '~> 2.8.3'
    pod 'LFLiveKit', '~> 2.6'
-#  pod 'IJKMediaFramework', '~> 0.1.4'
+  pod 'IJKMediaFramework', '~> 0.1.4'
   pod 'SDWebImage', '~> 5.8.3'
   pod 'ReactiveObjC', '~> 3.1.1'
   pod 'Masonry', '~> 1.1.0'
