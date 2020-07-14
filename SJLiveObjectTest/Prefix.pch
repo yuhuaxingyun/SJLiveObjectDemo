@@ -1,0 +1,18 @@
+//
+//  NewObject-Prefix.pch
+//  NewObjectTest
+//
+//  Created by mac on 2020/6/10.
+//  Copyright © 2020 songjiang. All rights reserved.
+//
+
+#ifndef NewObject_Prefix_pch
+#define NewObject_Prefix_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#import "Common.h"
+
+
+#endif /* NewObject_Prefix_pch */
