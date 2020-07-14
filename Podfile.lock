@@ -15,6 +15,7 @@ PODS:
   - AFNetworking/UIKit (4.0.1):
     - AFNetworking/NSURLSession
   - CocoaAsyncSocket (7.6.4)
+  - LFLiveKit (2.6)
   - Masonry (1.1.0)
   - ReactiveObjC (3.1.1)
   - SDWebImage (5.8.3):
@@ -25,6 +26,7 @@ PODS:
 DEPENDENCIES:
   - AFNetworking (~> 4.0.1)
   - CocoaAsyncSocket (~> 7.6.4)
+  - LFLiveKit (~> 2.6)
   - Masonry (~> 1.1.0)
   - ReactiveObjC (~> 3.1.1)
   - SDWebImage (~> 5.8.3)
@@ -34,6 +36,7 @@ SPEC REPOS:
   trunk:
     - AFNetworking
     - CocoaAsyncSocket
+    - LFLiveKit
     - Masonry
     - ReactiveObjC
     - SDWebImage
@@ -42,11 +45,12 @@ SPEC REPOS:
 SPEC CHECKSUMS:
   AFNetworking: 7864c38297c79aaca1500c33288e429c3451fdce
   CocoaAsyncSocket: 694058e7c0ed05a9e217d1b3c7ded962f4180845
+  LFLiveKit: 2219563721f8aa0f188effc3395a06e2d53b23f2
   Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
   ReactiveObjC: 011caa393aa0383245f2dcf9bf02e86b80b36040
   SDWebImage: 112503ec94a5a2a41869503844a15e8d8f1ead5c
   SJVTMagic: 40de857daf5445bc561a4daa7715fcc90c6bdd1d
 
-PODFILE CHECKSUM: d01418656c0a6408fb814c33e2d0b194bef685ed
+PODFILE CHECKSUM: c05ffc6e71846d5af98d1ec409c7a7ca967940b4
 
 COCOAPODS: 1.9.3
