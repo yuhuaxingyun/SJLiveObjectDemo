@@ -1,0 +1,6 @@
+framework module Pods_SJLiveObjectTest_SJLiveObjectTestUITests {
+  umbrella header "Pods-SJLiveObjectTest-SJLiveObjectTestUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

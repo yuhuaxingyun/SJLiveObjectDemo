@@ -1,0 +1,6 @@
+framework module SJVTMagic {
+  umbrella header "SJVTMagic-umbrella.h"
+
+  export *
+  module * { export * }
+}
